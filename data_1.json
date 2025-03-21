@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Kruzo Aero Chair",
+        "price": "$78.00",
+        "src": "./images/product-1.png"
+      }
+      ,
+    {
+        "name": "Ergonomic Chair",
+        "price": "$43.00",
+        "src": "./images/product-3.png"
+    },
+    {
+        "name": "Kruzo Aero Chair",
+        "price": "$78.00",
+        "src": "./images/product-1.png"
+      },
+      {
+          "name": "Ergonomic Chair",
+          "price": "$43.00",
+          "src": "./images/product-3.png"
+      }
+]
